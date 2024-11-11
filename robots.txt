@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tiffany-chao-1996.github.io/aws-iot-endpoint-with-static-ips/sitemap.xml
